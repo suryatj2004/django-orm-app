@@ -53,6 +53,5 @@ admin.site.register(Employee,EmployeeAdmin)
 
 Include the screenshot of your admin page.
 
-![primarykey](images/primarykey.png)
+![primarykey](./images/primarykey.png)
 ## RESULT
-# djangofirstproj
